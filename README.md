@@ -3,6 +3,7 @@ Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths
 This is the implement of  paper "Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths"(Donghui Yanan Huanhang+ 2017 CVPR)
 [https://arxiv.org/abs/1703.05002]
 
+
 1. Get  feature Data.
 ---
 We use 3 different neural networks to extract our feature. 
