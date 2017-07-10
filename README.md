@@ -4,7 +4,7 @@ This is the implement of  paper "Zero-Shot Recognition using Dual Visual-Semanti
 [https://arxiv.org/abs/1703.05002]
 
 1. Get  feature Data.
-----
+---
 We use 3 different neural networks to extract our feature. 
 
         GoogleNet: pool5/7*7_s1    bvlc_googlenet.caffemodel
